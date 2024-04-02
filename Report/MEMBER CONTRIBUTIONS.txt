@@ -1,0 +1,44 @@
+Cecchinato Martina: 
+	- Writing the following chapters of final report:
+		- 2.2 Grand average analyses on the whole population and on representative subjects 
+		- Results: first part: Grand average analyses on the whole population and on representative subjects
+		- Discussion of the results (part Grand average analyses on the whole population and on representative subjects)
+	- Overall final report revision and editing
+	- Contribution to the implementation of the file Project3_part1.m in: 
+		- Processing data and apply filters
+		- Identify and extract the most suitable features
+
+Cerisara Giovanni:
+	- Implementation file: Project3_part1.m
+	- Processing data and apply filters
+	- Identify and extract the most suitable features
+	- Contribution in the following chapters of finale report:
+		- 2.2 Grand average analyses on the whole population and on representative subjects 
+		- Results: first part: Grand average analyses on the whole population and on representative subjects
+		- Discussion of the results (part Grand average analyses on the whole population and on representative subjects)
+	- Overall final report revision
+
+Nabil Errami:
+	- Implementation file: Project3_part1.m
+	- Processing data and apply filters
+	- Identify and extract the most suitable features
+	- Contribution in the following chapters of finale report:
+		- 2.2 Grand average analyses on the whole population and on representative subjects 
+		- Results: first part: Grand average analyses on the whole population and on representative subjects
+		- Discussion of the results (part Grand average analyses on the whole population and on representative subjects)
+	- Overall final report revision
+
+Russo Christian Francesco:
+	- Definition of the structure, folders, files of the project
+	- Implementation file: Project3_part2.m
+	- Implementation scripts: script1_Processing.m, script2_Features_selection.m, script3_Classification_training.m, 
+          script4_Classification_evaluation.m, script5_Evidence_accumulation_framework.m
+	- Implementation util functions: GDF_files_load.m, labeling_data_1run.m
+	- Writing 80% of final report (except for parts written by Cecchinato Martina and Matteo Spinato)
+
+Spinato Matteo:
+	- Contribute in implementation scripts: script2_Features_selection.m, script3_Classification_training.m
+	- Parameters selection: feature selection, thresholds selection, alpha selection (for all subjects)
+	- Writing the following chapters of final report:
+		- Discussion of the results (part Analyses on BMI decoding on each subject)
+	- Overall final report revision and editing

@@ -1,12 +1,12 @@
 # Neurorobotics-and-Neurorehabilitation #
 Final project of Neurorobotics and Neurorehabilitation - Project 3 - Group 4
 
-## Assignment: Project 3 [Report]
+## Assignment (Project 3): `Report`
 * **Text of the assignment**: see `20221215_nn_project3.pdf`
-* **Report of the assignment**: see `Final Report - project 3 - group 4.pdf`
+* **Report**: see `Final Report - project 3 - group 4.pdf`
 
-## Project Structure [Project_NN_group4]
-The whole project is contained in the folder Project_NN_group4 and is organized as follows:
+## Project Structure: `Project_NN_group4`
+The whole project is contained in the folder `Project_NN_group4` and is organized as follows:
 * **Main scripts**: `Project3_part1.m`, `Project3_part2.m`.
 * **data**: this folder contains the following subfolders:
   * **dataset** `miscontinuous`: **[TO ADD MANUALLY]** (downloadable from link [6] in PDF report) contains the datasets of the 8 subjects , where each dataset contains all GDF offline and online files.
@@ -32,6 +32,6 @@ and to uncomment the lines marked with the comment **[SUGGESTED]** as follow:
 in this way you can analyze 1 subject at a time, avoiding to generate too many plots all at once.
 * If you want to change some settings you can do it by the pieces of code marked as **[OPTIONALLY MODIFY]**, all the rest of the code is supposed to work without any modification.
 
-## Execution instruction
+## Execution instructions
 * To run the first part of the project 3 run: `Project3_part1.m`
 * To run the second part of the project 3 run: `Project3_part2.m`

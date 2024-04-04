@@ -1,7 +1,25 @@
 # Neurorobotics-and-Neurorehabilitation #
 Final project of Neurorobotics and Neurorehabilitation - Project 3 - Group 4
 
-## Assignment (Project 3): `Report`
+## Assignment (Project 3): 
+Two types of analyses are requested:
+1. **Grand average analyses on the whole population and on representative subjects:**
+    * a) Process the data and apply the convenient filters;
+    * b) Identify and extract the most suitable features;
+    * c) Report the achieved results.
+2. **Analyses on BMI decoding on each subject:**
+    * a) Calibration phase:
+        * Consider only the offline runs;
+        * Process the data, c ompute the features, select the most disciminant features;
+        * Create a classifier based on those features.
+    * b) Evaluation phase:
+        * Consider only the online runs;
+        * Process the data, compute the features, and extract those already selected during the calibration phase;
+        * Use this data to evaluate the classifier created during the calibration phase;
+        * Implement and apply a e vidence accumulation framework on the posterior probabilities.
+    * c) Report on the achieved results in terms of (but not limited to): single sample accuracy (offline/online), trial accuracy (online/offline), average time to deliver a command.
+
+## Report: `Report`
 * **Text of the assignment**: see `20221215_nn_project3.pdf`
 * **Report**: see `Final Report - project 3 - group 4.pdf`
 
